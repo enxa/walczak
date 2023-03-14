@@ -1,0 +1,9 @@
+<section class="rim">
+  <h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, expedita, nemo quasi dolores a ducimus corrupti repellendus consequatur soluta asperiores assumenda earum illum, maiores distinctio neque velit maxime facere voluptatem.</h1>
+  <h2>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, expedita, nemo quasi dolores a ducimus corrupti repellendus consequatur soluta asperiores assumenda earum illum, maiores distinctio neque velit maxime facere voluptatem.</h2>
+  <h3>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, expedita, nemo quasi dolores a ducimus corrupti repellendus consequatur soluta asperiores assumenda earum illum, maiores distinctio neque velit maxime facere voluptatem.</h3>
+  <h4>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, expedita, nemo quasi dolores a ducimus corrupti repellendus consequatur soluta asperiores assumenda earum illum, maiores distinctio neque velit maxime facere voluptatem.</h4>
+  <h5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, expedita, nemo quasi dolores a ducimus corrupti repellendus consequatur soluta asperiores assumenda earum illum, maiores distinctio neque velit maxime facere voluptatem.</h5>
+  <h6>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, expedita, nemo quasi dolores a ducimus corrupti repellendus consequatur soluta asperiores assumenda earum illum, maiores distinctio neque velit maxime facere voluptatem.</h6>
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, expedita, nemo quasi dolores a ducimus corrupti repellendus consequatur soluta asperiores assumenda earum illum, maiores distinctio neque velit maxime facere voluptatem.</p>
+</section>
